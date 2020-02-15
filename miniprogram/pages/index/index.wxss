@@ -1,0 +1,36 @@
+/**index.wxss**/
+page{
+  background-color: #fdc20c;
+}
+.ring{
+  width: 640rpx;
+  height: 640rpx;
+  display: flex;
+  background-image: url("https://raw.githubusercontent.com/boleming/roulette-lottery/master/images/yuanhuan.png");
+  background-size: 640rpx 640rpx;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.turntable{
+  width: 552rpx;
+  height: 552rpx;
+  display: flex;
+  margin: auto;
+  margin-top: 40rpx;
+  margin-left: 48rpx;
+  position: absolute;
+  z-index: -10;
+}
+.luckDraw{
+  width: 266rpx;
+  height: 326rpx;
+  margin:auto;
+  margin-top: 130rpx;
+}
+.bottom{
+  width: 580rpx;
+  height: 220rpx;
+  position: absolute;
+  top: 680rpx;
+  z-index: -1;
+}

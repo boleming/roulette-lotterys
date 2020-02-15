@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+	<view class="ring">
+		<image class="turntable" src="{{imgs[1].img_url}}" animation="{{animationData}}"></image>
+		<image class="luckDraw" src="{{imgs[2].img_url}}" bindtap="onRotate"></image>
+	</view>
+	<image src="{{imgs[3].img_url}}" class="bottom"></image>
+</view>
