@@ -20,6 +20,7 @@ npm run tsc
 ```
 另一个本地版本：https://github.com/boleming/roulette-lottery<br/>
 这个项目的后端项目文件：https://github.com/boleming/rouletteData<br/>
+# 项目效果展示:
 ![image](https://github.com/boleming/roulette-lottery/blob/master/images/xiaoguotu.gif?raw=true)
 ![image](https://github.com/boleming/roulette-lottery/blob/master/images/xiaoguotu1.png?raw=true)
 ![image](https://github.com/boleming/roulette-lottery/blob/master/images/xiaoguotu2.png?raw=true)
